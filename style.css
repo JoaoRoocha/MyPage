@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background-color: rgb(219, 255, 251);
+}
+.titulo {
+  color: darkblue
+}
